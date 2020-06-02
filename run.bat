@@ -1,1 +1,1 @@
-for %%i in (.\*) do %%i
+for %%i in (.\malwareTest\*) do %%i
